@@ -1,0 +1,2 @@
+accracy = 96.8750   , 50 iterations 
+		=  97.983871,100 iterations

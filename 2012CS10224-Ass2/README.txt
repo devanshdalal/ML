@@ -1,0 +1,1 @@
+Please restore mnist_all,mat and train before starting because this is not included due to its size

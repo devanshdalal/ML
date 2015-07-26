@@ -1,0 +1,23 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                   R2014b (8.4.0.150421) 64-bit (glnxa64)
+                             September 15, 2014
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+data loaded into table from file
+{Error using -
+Matrix dimensions must agree.
+
+Error in nn (line 28)
+            dth = dth + norm(O2_-YY(k,:)').^2;
+
+
+Error in run_all (line 37)
+    nn(X,Y,ita,TX,TY);
+
+} 
+>> 
